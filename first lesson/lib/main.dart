@@ -1,5 +1,12 @@
 void main() {
-  // creating variables
-  // data type
-  // name
+  String name = 'Ahmed';
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
+  print(name);
 }
